@@ -1,0 +1,25 @@
+{
+  "name": "range-minimum-query",
+  "version": "0.0.0",
+  "description": "Preprocess an array to find the smallest element in any interval in O(1)",
+  "main": "rmq.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/range-minimum-query.git"
+  },
+  "keywords": [
+    "range",
+    "minimum",
+    "query",
+    "preprocess"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/range-minimum-query/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/range-minimum-query"
+}
