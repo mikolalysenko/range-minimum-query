@@ -15,6 +15,7 @@ console.log(rmq(-Infinity, Infinity), rmq(0, 3))
 Output:
 
 ```javascript
+3 1
 ```
 
 # Install
