@@ -1,6 +1,6 @@
 {
   "name": "range-minimum-query",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Preprocess an array to find the smallest element in any interval in O(1)",
   "main": "rmq.js",
   "scripts": {
