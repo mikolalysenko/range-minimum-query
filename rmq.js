@@ -21,8 +21,7 @@ function preprocessRangeMinimumQuery(array, compare) {
       i = 0
     }
     if((j <= i) || (i>=array.length)) {
-      console.log("out of bounds")
-      return -1
+       return -1
     }
     var a = cartesianTree.nodes[i]
     var b = cartesianTree.nodes[Math.min(array.length-1, j-1)]
